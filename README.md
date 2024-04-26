@@ -61,6 +61,7 @@
 - Record of join and leaving time is been maintained for every meeting .
 - Users can also view the list of members in the meetings.
 - Screen sharing is also available.
+- Integrated with ZegoCloud
 
 ### Tech Stack Used : 
 <img alt="Coding" align="center" width="500" src="https://firebasestorage.googleapis.com/v0/b/giga-chat-9416b.appspot.com/o/aiImages%2Ftechstackicons.png?alt=media&token=a84e713d-481c-4efe-8890-edb9f85e29f6" >
