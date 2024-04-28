@@ -1313,7 +1313,7 @@ export const MainComponent: React.FC = () => {
                                                             )}
                                                         </div>
                                                         <div className='rounded-full border-none w-[40px] h-[40px] mt-[auto] overflow-hidden flex justify-end'>
-                                                            {profilePicPath.profilePicPath !== "undefined" ? (
+                                                            {profilePicPath.profilePicPath  && profilePicPath.profilePicPath !== "undefined" ? (
                                                                 <img
                                                                     src={`${profilePicPath.profilePicPath}`}
                                                                     alt="profile"
