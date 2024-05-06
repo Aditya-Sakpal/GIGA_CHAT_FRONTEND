@@ -66,6 +66,9 @@
 ### Tech Stack Used : 
 <img alt="Coding" align="center" width="500" src="https://firebasestorage.googleapis.com/v0/b/giga-chat-9416b.appspot.com/o/aiImages%2Ftechstackicons.png?alt=media&token=a84e713d-481c-4efe-8890-edb9f85e29f6" >
 
+### System Design :
+![diagram-export-5-6-2024-3_00_36-PM](https://github.com/Aditya-Sakpal/GIGA_CHAT_FRONTEND/assets/112710558/cb875573-cfdf-4337-bb90-ad9983e6085e)
+
 ### UI ScreenShots
 ![image](https://github.com/Aditya-Sakpal/GIGA_CHAT_FRONTEND/assets/112710558/9d3666dc-cc42-433d-aa4d-bc3d927e5a08)
 ![image](https://github.com/Aditya-Sakpal/GIGA_CHAT_FRONTEND/assets/112710558/76faf6b9-239c-42b4-8660-8962cf70907e)
