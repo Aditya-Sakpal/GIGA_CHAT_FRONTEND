@@ -531,24 +531,6 @@ export const MainComponent: React.FC = () => {
         } catch (e) { console.log(e) }
     }
 
-    useEffect(() => {
-        console.log("got called", recievedMessage.recievedMessage)
-        if (firstTimeLoaded) {
-            handleAiSuggestion("assistant", "Provide response in maximum 10 words for this : " + recievedMessage.recievedMessage)
-        } else {
-            setFirstTimeLoaded(true)
-        }
-        if (recievedMessage.recievedMessage) {
-            if (recievedMessage.recievedMessage !== '' && messages) {
-                setMessages((prevMessages) => [{ message: recievedMessage.recievedMessage, isSender: false }, ...prevMessages])
-                setOpenAiChats((prevChats) => [...prevChats, { role: "assistant", content: recievedMessage.recievedMessage }])
-            } else {
-                setMessages([{ message: recievedMessage.recievedMessage, isSender: false }])
-                setOpenAiChats((prevChats) => [...prevChats, { role: "assistant", content: recievedMessage.recievedMessage }])
-            }
-        }
-    }, [recievedMessage.recievedMessage]);
-
     const [animationTarget, setAnimationTarget] = useState(null);
 
     useEffect(() => {
