@@ -5,7 +5,7 @@
 
 ### GIGA-CHAT is an AI-powered real-time ai-assisted chat application designed for seamless peer-to-peer and group communication
 
-### Current Version : https://www.giga-chat.tech/
+### Current Version (Mobile View under progress): https://www.giga-chat.tech/
 
 ### Following are some main features :  
 
