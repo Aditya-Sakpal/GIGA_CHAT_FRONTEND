@@ -98,4 +98,5 @@
    npm run dev
 ```
 ### Video Demo :
-https://github.com/Aditya-Sakpal/GIGA_CHAT_FRONTEND/assets/112710558/3ff7ad22-c41d-4349-8c59-391bcb1b3809
+https://github.com/Aditya-Sakpal/GIGA_CHAT_FRONTEND/assets/112710558/3884b85f-785e-447a-9409-df8dcad906eb
+
